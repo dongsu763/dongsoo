@@ -37,22 +37,20 @@
               "title": "Job Description",
               "period": "",
               "children": [
-                "Manage network access to servers by operating a Firewall with IP address and port-based policies",
-                "Detect and Block malicious attacks on network packets using Web Firewall and Intrusion Prevention Systems",
-                "Network security by encrypting all communication processes by building a Virtual Private Network(VPC)",
-                "Accurate event processing with rule creation through pattern-based parsing of large data using SIEM"
+                "Apply advanced troubleshooting techniques to provide unique solutions to our customers' individual needs",
+                "Work directly with Amazon Web Service architects to help reproduce and resolve customer issues",
+                "Drive customer communication during critical events",
+                "Drive projects that improve support-related processes and our customers’ technical support experience",
+                "Write tutorials, how-to videos, and other technical articles for the customer community",
+                "Work on critical, highly complex customer problems that may span multiple AWS services"
               ]
             },
             {
-              "title": "RemoteView",
+              "title": "Service Scope",
               "period": "",
-              "link": "https://meeting.jjongtaeng.com/",
+              "link": "",
               "children": [
-                "리모트뷰는 PC와 모바일(스마트폰) 등 기기들을 제어할 수 있는 원격제어 소프트웨어로 회사의 IT 기기 관리, 그룹관리, 재택근무 솔루션",
-                "WebConsole, WebViewer 유지보수 및 신규 기능 개발",
-                "웹콘솔에서 MQTT 통신 기반 실시간 에이전트 상태 표시",
-                "웹뷰어에서 MQTT 통신 기반 에이전트 실시간 키보드, 마우스 제어",
-                "원격PC 영상 스트리밍을 위해 WebSocket 작업"
+                "IAM, Organizations, ACM, CloudTrail, Cognito"
               ]
             }
           ]
@@ -68,10 +66,13 @@
           "period": "",
           "children": [
             {
-              "title": "Information Security Team",
+              "title": "Job Description",
               "period": "",
               "children": [
-                "aa"
+                "Manage network access to servers by operating a Firewall with IP address and port-based policies",
+                "Detect and Block malicious attacks on network packets using Web Firewall and Intrusion Prevention Systems",
+                "Network security by encrypting all communication processes by building a Virtual Private Network",
+                "Accurate event processing with rule creation through pattern-based parsing of large data using SIEM"
               ]
             },
             {
@@ -110,7 +111,7 @@
           "children": [
             "Korea Information Security Engineer in KISA",
             "Korea Information Processing Engineer in HRDK",
-            "Korean history advanced"
+            "Korea history advanced"
           ]
         }
       ]
