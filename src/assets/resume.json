@@ -50,7 +50,7 @@
               "period": "",
               "link": "",
               "children": [
-                "IAM, Organizations, ACM, CloudTrail, Cognito"
+                "IAM, Organizations, ACM, CloudTrail, Cognito, KMS, Secrets Manager, GuardDuty, Artifact"
               ]
             }
           ]
@@ -79,7 +79,10 @@
               "title": "Information Security Team",
               "period": "",
               "children": [
-                "aa"
+                "Building an API-based security pattern automatic distribution system",
+                "Building an security solution Config File Backup system",
+                "Building an Open Source based management system",
+                "Script development for task automation"
               ]
             }
           ]
